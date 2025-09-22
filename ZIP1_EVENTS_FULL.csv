@@ -1,0 +1,2 @@
+logical_path,class,file_size,dates_found,pid_presence,session_presence,SYSTEM,MDM,COMM_ENERGY,APPS_FIN,jp_tamper_terms_total,join_key_hits,sha256
+part1.zip:part1.txt,Sub,64150208,"2025-07-31,2025-08-01,2025-08-02,2025-08-03,2025-08-04",Yes,Yes,167,0,5,4,0,365,09cbafbd251a47cadab496303be1ed23496ac30de79e222d5b6101f5b025493d

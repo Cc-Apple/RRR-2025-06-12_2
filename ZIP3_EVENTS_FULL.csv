@@ -1,0 +1,2 @@
+logical_path,class,file_size,dates_found,pid_presence,session_presence,SYSTEM,MDM,jp_tamper_terms_total,join_key_hits,sha256
+part3.zip:part3.txt,Main,52811406,"2025-06-13,2025-06-14,2025-06-15,2025-06-16,2025-07-05,2025-07-06",Yes,Yes,184,15,247,183,8bdef3268b594cc5c8a6ee80bd0ed36a0ef4d2c7b520b56d57d64242b6b21e44

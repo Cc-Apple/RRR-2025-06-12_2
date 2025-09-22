@@ -1,0 +1,4 @@
+,zip,total_hits,whitespace_before_yes,whitespace_after_yes,boundary_cut_yes,windows_with_timestamps(>=2),approx_rev_order_hits,sum_near_proactive_event_tracker,sum_near_triald,sum_near_TRILogEvent,sum_near_ABTest,sum_near_variant,sum_near_bucket,anchor_imbalance_rate
+0,part1.zip,12376,0,2,0,10810,2223,33934,74226,9863,0,9290,214163,0.07
+1,part2.zip,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2,part3.zip,28360,0,11,1,7078,1916,1877,9807,5888,0,27643,10475,0.071

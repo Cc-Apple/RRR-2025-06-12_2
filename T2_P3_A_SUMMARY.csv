@@ -1,0 +1,2 @@
+processed_hits,total_hits_in_file,whitespace_before_yes,whitespace_after_yes,boundary_cut_yes,windows_with_timestamps,mean_pct_time_decreasing,sum_near_proactive_event_tracker,sum_near_triald,sum_near_TRILogEvent,sum_near_ABTest,sum_near_variant,sum_near_bucket,sum_near_total
+1800,28360,0,0,1,1065,0.18312,1459,9807,5888,0,794,9868,27816

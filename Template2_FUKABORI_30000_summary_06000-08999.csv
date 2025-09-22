@@ -1,0 +1,9 @@
+flag,count,total_windows_in_batch
+has_seam_or_burst,0,3000
+order_anomaly,366,3000
+proactive_event_tracker,93,3000
+triald,510,3000
+TRILogEvent,41,3000
+ABTest,0,3000
+variant,160,3000
+bucket,231,3000
